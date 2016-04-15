@@ -1,5 +1,5 @@
 
-public class RealVideo implements VideoInterface {
+public class RealVideo implements Video {
 	private String videoName;
 	
 	public RealVideo(String videoName){

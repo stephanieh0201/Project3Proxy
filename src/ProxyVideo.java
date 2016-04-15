@@ -1,5 +1,5 @@
 
-public class ProxyVideo implements VideoInterface {
+public class ProxyVideo implements Video {
 	private RealVideo realVideo;
 	private String videoName;
 	
