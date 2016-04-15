@@ -1,6 +1,8 @@
 # Project3Proxy
 COMP 473
+
 Henry Remache
+
 Stephanie Verlingo
 
 ##Problem Solver by Proxy Pattern:
