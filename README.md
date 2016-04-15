@@ -5,7 +5,7 @@ Henry Remache
 
 Stephanie Verlingo
 
-##Problem Solver by Proxy Pattern:
+##Problem Solved by Proxy Pattern:
 The proxy pattern is used for several reasons: 
   1. It is useful if creating any objects would be expensive, or require a lot of memory.
   2. Also useful if the initialization is expensive as well.
