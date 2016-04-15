@@ -1,4 +1,4 @@
-# Project3Proxy
+# Project 3 Proxy Pattern
 COMP 473
 
 Henry Remache
